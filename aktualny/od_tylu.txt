@@ -1,0 +1,7 @@
+raport po sortowaniu tablic posortowanych od tyłu:
+shella 	scalanie 	quicksort 	
+7103	11740	5195	
+6812	10608	5040	
+6831	10848	5053	
+7101	10762	5088	
+6894	10460	5070	

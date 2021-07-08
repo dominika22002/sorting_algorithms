@@ -1,0 +1,7 @@
+raport po sortowaniu tablic w 75% posortowanych
+shella 	scalanie 	quicksort 	
+26719	12483	11706	
+27428	10346	11680	
+28155	10370	12107	
+28032	10676	12264	
+28325	10871	12384	

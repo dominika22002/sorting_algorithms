@@ -1,0 +1,7 @@
+raport po sortowaniu tablic w 50% posortowanych
+shella 	scalanie 	quicksort 	
+30094	15567	13301	
+30686	10456	12846	
+31342	11027	13546	
+31002	10947	13770	
+29765	10470	12862	

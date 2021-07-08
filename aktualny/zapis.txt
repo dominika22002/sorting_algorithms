@@ -1,0 +1,41 @@
+dla 1 przejcia przez petle
+raport po sortowaniu tablic nie posortowanych:
+czas sortowania przez scalanie = 145
+czas sortowania quicksort = 121
+czas sortowania shella = 174
+
+raport po sortowaniu tablic w 25% posortowanych
+czas sortowania przez scalanie = 160
+czas sortowania quicksort = 124
+czas sortowania shella = 165
+
+raport po sortowaniu tablic w 50% posortowanych
+czas sortowania przez scalanie = 130
+czas sortowania quicksort = 112
+czas sortowania shella = 160
+
+raport po sortowaniu tablic w 75% posortowanych
+czas sortowania przez scalanie = 128
+czas sortowania quicksort = 114
+czas sortowania shella = 158
+
+raport po sortowaniu tablic w 95% posortowanych
+czas sortowania przez scalanie = 127
+czas sortowania quicksort = 110
+czas sortowania shella = 155
+
+raport po sortowaniu tablic w 99% posortowanych
+czas sortowania przez scalanie = 128
+czas sortowania quicksort = 108
+czas sortowania shella = 158
+
+raport po sortowaniu tablic w 99.7% posortowanych
+czas sortowania przez scalanie = 129
+czas sortowania quicksort = 108
+czas sortowania shella = 151
+
+raport po sortowaniu tablic posortowanych od tyłu:
+czas sortowania przez scalanie = 89
+czas sortowania quicksort = 43
+czas sortowania shella = 52
+

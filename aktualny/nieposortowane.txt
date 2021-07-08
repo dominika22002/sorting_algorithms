@@ -1,0 +1,8 @@
+raport po sortowaniu tablic nie posortowanych:
+shella 	scalanie 	quicksort 	
+34107	20093	16510	
+34801	10303	15784	
+34431	10638	15622	
+34666	10342	15670	
+34215	10388	15606	
+34261	10392	15603	

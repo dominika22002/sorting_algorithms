@@ -1,0 +1,7 @@
+raport po sortowaniu tablic w 99% posortowanych
+shella 	scalanie 	quicksort 	
+17097	10422	7760	
+17074	10308	7736	
+17886	10377	8040	
+17246	10948	7824	
+18127	10937	8170	

@@ -1,0 +1,7 @@
+raport po sortowaniu tablic w 95% posortowanych
+shella 	scalanie 	quicksort 	
+22429	11420	9313	
+22690	10932	9249	
+22662	10844	9308	
+21501	10417	8948	
+21451	10343	8838	

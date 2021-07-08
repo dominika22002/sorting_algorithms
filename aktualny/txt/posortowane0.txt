@@ -1,0 +1,7 @@
+raport po sortowaniu tablic w 25% posortowanych
+shella 	scalanie 	quicksort 	
+32144	17151	14622	
+32308	10446	14677	
+32454	10489	14682	
+32586	10351	14784	
+33883	11005	15435	
